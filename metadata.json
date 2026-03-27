@@ -1,0 +1,5 @@
+{
+  "name": "Red Rooster Harlem",
+  "description": "A culturally rich, James Beard Award-winning soul food and American cuisine restaurant and live music venue in the heart of Harlem.",
+  "requestFramePermissions": ["geolocation"]
+}
